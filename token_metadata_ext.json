@@ -1,0 +1,43 @@
+{
+  "name": "ByronWuff",
+  "symbol": "BRNW",
+  "description": "Byron is a big dog with a loud Wuff. He can eat anything and everyone.",
+  "seller_fee_basis_points": 100,
+  "external_url": "",
+  "edition": "ByronWuff 2021",
+  "background_color": "000000",
+  "attributes": [
+    {
+      "trait_type": "Claws",
+      "value": "Long"
+    },
+    {
+      "trait_type": "Shell",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Excited"
+    },
+    {
+      "trait_type": "Accesory",
+      "value": "Surf Board"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "C2LAN44a7fwj5QZETAL19DTKLusJBSrD6JeijEQ4Thyx",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/scandawolf/BRNW/main/logo.png",
+        "file_type": "image/png"
+      }
+    ]
+  },
+  "image": "https://raw.githubusercontent.com/scandawolf/BRNW/main/logo.png"
+}
