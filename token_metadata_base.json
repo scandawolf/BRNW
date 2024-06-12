@@ -1,13 +1,5 @@
 {
-    "name": "ByronWuff",
-    "symbol": "BRNW",
-    "uri": "https://github.com/scandawolf/BRNW/raw/main/token_metadata_ext.json",
-    "seller_fee_basis_points": 100,
-    "creators": [
-        {
-            "address": "C2LAN44a7fwj5QZETAL19DTKLusJBSrD6JeijEQ4Thyx",
-            "verified": true,
-            "share": 50
-        }
-    ]
+  "name": "ByronWuff",
+  "symbol": "BRNW",
+  "uri": "https://raw.githubusercontent.com/scandawolf/BRNW/main/token_metadata.json"
 }
