@@ -1,1 +1,18 @@
-{"name":"ByronWuff","symbol":"BRNW","description":"Byron is a big dog with a loud Wuff. He can eat anything and everyone.","image":"https://raw.githubusercontent.com/scandawolf/BRNW/main/logo.png","attributes":[],"properties":{"files":[{"uri":"https://raw.githubusercontent.com/scandawolf/BRNW/main/logo.png","type":"image/png"}]}}
+{
+  "name": "ByronWuff",
+  "symbol": "BRNW",
+  "description": "Byron is a big dog with a loud Wuff. He can eat anything and everyone.",
+  "image": "https://raw.githubusercontent.com/scandawolf/BRNW/main/logo.png",
+  "attributes": [],
+  "extensions": {
+    "twitter": "https://x.com/ByronWuffCoin",
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/scandawolf/BRNW/main/logo.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
